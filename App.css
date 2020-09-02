@@ -1,0 +1,41 @@
+.width-calendar {
+  width: 14.2857142857%;
+  float: left;
+  border: rgb(133, 130, 130) solid 0.5px;
+  cursor: pointer;
+}
+
+.date-title{
+  background-color: rgb(133, 192, 192,.5);
+  border-radius: 3px;
+}
+
+.date-item{
+  background-color: rgba(166, 179, 179, 0.5);
+  border-radius: 3px;
+}
+
+.date-special{
+  background-color: rgba(180, 182, 68, 0.5);
+  border-radius: 3px;
+}
+
+.calendar {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.Addnewform{
+  margin-left:30%;
+  margin-right : 30%;
+}
+
+.Addnewinput{
+  margin-left:310%;
+  margin-right : 30%;
+}
+
